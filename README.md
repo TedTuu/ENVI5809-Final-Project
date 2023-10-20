@@ -1,11 +1,15 @@
 Run in binder: https://mybinder.org/v2/gh/shannonbohman/Final-Project/master
 
-# ENVI5809-Final-Project
+# **ENVI5809-Final-Project**
 the Thermal Limitation of Seagrasses in Great Barrier Reef Ecosystem
 
-# Data: 
+# **Data:** 
 We use three dataset in the eReef database:
+
+**For temperture analysis** 
 - https://thredds.ereefs.aims.gov.au/thredds/dodsC/GBR4_H2p0_B3p1_Cq3b_Dhnd/monthly.nc
+
+**For pH and current speed and direction analysis:**
 - http://thredds.ereefs.aims.gov.au/thredds/dodsC/s3://aims-ereefs-public-prod/derived/ncaggregate/ereefs/GBR4_H2p0_B3p1_Cq3b_Dhnd/daily-monthly/EREEFS_AIMS-CSIRO_GBR4_H2p0_B3p1_Cq3b_Dhnd_bgc_daily-monthly-2019-01
 - http://thredds.ereefs.aims.gov.au/thredds/dodsC/s3://aims-ereefs-public-prod/derived/ncaggregate/ereefs/gbr4_v2/daily-monthly/EREEFS_AIMS-CSIRO_gbr4_v2_hydro_daily-monthly-2019-01
 
@@ -16,14 +20,14 @@ The meaning of the model name of GBR4_H2p0_B3p1_Cq3b_Dhnd:
 - Cq3b: Catchment model using load specification q3b. P2R SOURCE Catchments with 2019 catchment condition from Dec 1, 2010 - 30/6/2018 (used for GBR Report Card 8 published in 2019), Empirical SOURCE with 2019 catchment  condition, Jul 1, 2018 - April 30, 2019.
 - Dhnd: Model deployment - Hindcast
 
-This project uses the datasets with the following variables:
+**This project uses the datasets with the following variables:**
 - water depth (zc, meter)
 - date (time, day-month-year)
 - pH (PH, log(mM))
 - temperature (temp, degrees Celcius)
 - current speed and direction (mean_cur, ms-1)
 
-# Planned analysis: 
+# **Planned analysis:** 
 
 Figure 1-3 summer (2019/01/31) temperature  at water depth of -0.5m, -5.5m and -39.5m in entire great barrier reef;
 

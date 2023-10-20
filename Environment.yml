@@ -2,7 +2,7 @@ name: Thermal Limitation of Seagrasses in Great Barrier Reef Ecosystem
 channels:
     - conda-forge
 dependencies:
-    - python=3.7    # Python version 3.7
+    - python        # Python version 
     - cartopy       # Geographic plotting toolkit
     - ipython       # IPython interpreter and tools
     - jupyter       # Jupyter federation architecture

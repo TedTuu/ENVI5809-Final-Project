@@ -41,5 +41,3 @@ Figure 9-10 summer pH at water depth of -0.5m in entire great barrier reef and s
 
 Figure 11 summer current speed and direction at water depth of -0.5m at study region with two sites. 
 
-# **Binder Link**
-

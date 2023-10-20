@@ -1,4 +1,11 @@
 # **ENVI5809-Final-Project**
+
+Jie Du (480181105)
+
+Dongxuan He (500168110)
+
+Chenwang Tu (530311980)
+
 **Thermal Limitation of Seagrasses in Great Barrier Reef Ecosystem**
 
 The thermal limitation of seagrasses related to the light, temperature directly and pH indirectly.

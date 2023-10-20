@@ -3,7 +3,7 @@
 
 The thermal limitation of seagrasses related to the light, temperature directly and pH indirectly.
 
-In this case, we organized to compare the temperature differences between different water depth, the seasonal temperature differences and the pH differences. After that, the current speed and direction with the thermal transfer has been concerned. As a result, we hope to figure out the trend of the seagrasses Survivorship in globaling warming environment. 
+In this case, we organized to compare the temperature differences between different water depth, the seasonal temperature differences and the pH differences. After that, the current speed and direction with the thermal transfer has been concerned. As a result, we hope to figure out the trend of the seagrasses survivorship in globaling warming environment. 
 
 # **Data:** 
 We use three dataset in the eReef database:

@@ -1,4 +1,4 @@
-name: 
+name: Thermal Limitation of Seagrasses in Great Barrier Reef Ecosystem
 channels:
     - conda-forge
 dependencies:

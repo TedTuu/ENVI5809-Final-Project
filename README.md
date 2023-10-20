@@ -1,5 +1,3 @@
-Run in binder: https://mybinder.org/v2/gh/shannonbohman/Final-Project/master
-
 # **ENVI5809-Final-Project**
 the Thermal Limitation of Seagrasses in Great Barrier Reef Ecosystem
 

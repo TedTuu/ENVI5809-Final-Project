@@ -25,18 +25,13 @@ This project uses the datasets with the following variables:
 
 # Planned analysis: 
 
-Figure 1 shows a basemap of the area considered in this project using cartopy.
+Figure 1-3 summer(2019/01/31) temperature  at water depth of -0.5m, -5.5m and -39.5m in great barrier reef;
 
-Figure 2 investigates seasonal variability in the BoB by taking temporal means of SSH and SST across the different seasons.
+Figure 4-6  summer temperature at water depth of -0.5m, -5.5m and -39.5m at study region (Princess Charlotte Bay) and two sites (the subtital and intertidal);
 
-Figure 3 investigates the relationship between mixed layer depth and SSH.
+Figure 7-8 winter (2018/07/31) temperature at water depth of -0.5m in entire great barrier reef and study region with two sites;
 
-Figure 4 investigates the propagation of SSH anomalies, ultimately finding velocity.
+Figure 9-10 summer pH at water depth of -0.5m in entire great barrier reef and study region with two sites;
 
-Figure 5 shows a basemap of the area considered in this project using cartopy.
+Figure 11 summer current speed and direction at water depth of -0.5m at study region with two sites. 
 
-Figure 6 investigates seasonal variability in the BoB by taking temporal means of SSH and SST across the different seasons.
-
-Figure 7 investigates the relationship between mixed layer depth and SSH.
-
-Figure 8 investigates the propagation of SSH anomalies, ultimately finding velocity.

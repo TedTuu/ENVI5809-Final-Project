@@ -15,7 +15,7 @@ In this case, we organized to compare the temperature differences between differ
 # **Data:** 
 We use three dataset in the eReef database:
 
-**For temperture analysis** 
+**For temperature analysis** 
 - https://thredds.ereefs.aims.gov.au/thredds/dodsC/GBR4_H2p0_B3p1_Cq3b_Dhnd/monthly.nc
 
 **For pH and current speed and direction analysis:**

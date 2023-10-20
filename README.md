@@ -9,6 +9,7 @@ We use three dataset in the eReef database:
 - http://thredds.ereefs.aims.gov.au/thredds/dodsC/s3://aims-ereefs-public-prod/derived/ncaggregate/ereefs/GBR4_H2p0_B3p1_Cq3b_Dhnd/daily-monthly/EREEFS_AIMS-CSIRO_GBR4_H2p0_B3p1_Cq3b_Dhnd_bgc_daily-monthly-2019-01
 - http://thredds.ereefs.aims.gov.au/thredds/dodsC/s3://aims-ereefs-public-prod/derived/ncaggregate/ereefs/gbr4_v2/daily-monthly/EREEFS_AIMS-CSIRO_gbr4_v2_hydro_daily-monthly-2019-01
 
+The meaning of the model name of GBR4_H2p0_B3p1_Cq3b_Dhnd: 
 - GBR4: Great Barrier Reef model with a grid of approximately 4 kilometres resolution.
 - H2p0: Hydrodynamic model version 2.0
 - B3p1: Biogeochemical model version 3.1

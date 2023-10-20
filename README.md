@@ -25,9 +25,9 @@ This project uses the datasets with the following variables:
 
 # Planned analysis: 
 
-Figure 1-3 summer(2019/01/31) temperature  at water depth of -0.5m, -5.5m and -39.5m in great barrier reef;
+Figure 1-3 summer (2019/01/31) temperature  at water depth of -0.5m, -5.5m and -39.5m in entire great barrier reef;
 
-Figure 4-6  summer temperature at water depth of -0.5m, -5.5m and -39.5m at study region (Princess Charlotte Bay) and two sites (the subtital and intertidal);
+Figure 4-6 summer temperature at water depth of -0.5m, -5.5m and -39.5m at study region (Princess Charlotte Bay) and two sites (the subtital and intertidal);
 
 Figure 7-8 winter (2018/07/31) temperature at water depth of -0.5m in entire great barrier reef and study region with two sites;
 

@@ -4,7 +4,8 @@ Run in binder: https://mybinder.org/v2/gh/shannonbohman/Final-Project/master
 the Thermal Limitation of Seagrasses in Great Barrier Reef Ecosystem
 
 # Data: 
-I used the Global ARMOR3D L4 Reprocessed dataset from the European Union's Copernicus program. It consists of 3D Temperature, Salinity, Heights and Geostrophic Currents, available on a 1/4 degree regular grid and on 33 depth levels from the surface down to the bottom
+
+
 http://marine.copernicus.eu/services-portfolio/access-to-products/?option=com_csw&view=details&product_id=MULTIOBS_GLO_PHY_REP_015_002
 
 This project uses the weekly dataset with the following variables:

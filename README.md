@@ -6,7 +6,7 @@ the Thermal Limitation of Seagrasses in Great Barrier Reef Ecosystem
 # Data: 
 
 
-http://marine.copernicus.eu/services-portfolio/access-to-products/?option=com_csw&view=details&product_id=MULTIOBS_GLO_PHY_REP_015_002
+
 
 This project uses the weekly dataset with the following variables:
 - salinity (practical salinity unit)

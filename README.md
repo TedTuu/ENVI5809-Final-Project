@@ -16,14 +16,12 @@ The meaning of the model name of GBR4_H2p0_B3p1_Cq3b_Dhnd:
 - Cq3b: Catchment model using load specification q3b. P2R SOURCE Catchments with 2019 catchment condition from Dec 1, 2010 - 30/6/2018 (used for GBR Report Card 8 published in 2019), Empirical SOURCE with 2019 catchment  condition, Jul 1, 2018 - April 30, 2019.
 - Dhnd: Model deployment - Hindcast
 
-This project uses the weekly dataset with the following variables:
-- salinity (practical salinity unit)
-- temperature (degrees Celcius)
-- absolute height (meters)
-- geostrophic zonal velocity from thermal wind equation (meters per second)
-- geostrophic meridional velocity from thermal wind equation (meters per second)
-- Mixed layer depth from density threshold equivalent to a 0.2°C
-decrease (meters)
+This project uses the datasets with the following variables:
+- water depth (zc, meter)
+- date (time, day-month-year)
+- pH (PH, log(mM))
+- temperature (temp, degrees Celcius)
+- current speed and direction (mean_cur, ms-1)
 
 # Planned analysis: 
 
